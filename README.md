@@ -4,9 +4,10 @@
 This project has been done in relation with ARS4 course from UTC master (ISC - ARS master's degree).
 
 ## Authors
-- Victor Demessance
-- Fabiola Cornejo Urquieta
 - Fadi Ben Ali
+- Victor
+
+
   
 ## Project
 
